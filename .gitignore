@@ -1,2 +1,5 @@
-node_module
+npmnode_module
 build
+node_modules
+Nuxt generate
+dist
